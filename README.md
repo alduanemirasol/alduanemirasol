@@ -1,4 +1,33 @@
-🔭 I’m currently working on<br>FeeTracker and DSWD (POS + Inventory Management System) using .NET MAUI App<br><br>👯 I’m looking to collaborate on<br>Full-stack applications, Django REST Framework APIs, and deployments on AWS<br><br>🤝 I’m looking for help with<br>Optimizing .NET MAUI apps, Django REST APIs, and cloud deployment best practices<br><br>🌱 I’m currently learning<br>React, Flutter, Django REST Framework, and AWS deployment<br><br>💬 Ask me about<br>.NET MAUI, Django REST Framework, full-stack development, app deployment, and database management<br><br>⚡ Fun fact<br>I love optimizing apps for speed, efficiency, and user experience
+# 💫 About Me
+
+🔭 **Currently working on:**  
+![FeeTracker](https://img.shields.io/badge/FeeTracker-.NET%20MAUI-blue)  
+![DSWD POS & Inventory](https://img.shields.io/badge/DSWD%20POS%20%26%20Inventory-.NET%20MAUI-green)  
+
+👯 **Looking to collaborate on:**  
+![Full-stack](https://img.shields.io/badge/Full--stack-Applications-orange)  
+![Django REST](https://img.shields.io/badge/Django%20REST-APIs-red)  
+![AWS](https://img.shields.io/badge/AWS-Deployment-yellow)  
+
+🤝 **Looking for help with:**  
+![Optimization](https://img.shields.io/badge/Optimization-.NET%20MAUI-blueviolet)  
+![Django REST](https://img.shields.io/badge/Django%20REST-APIs-red)  
+![Cloud](https://img.shields.io/badge/Cloud-Deployment-green)  
+
+🌱 **Currently learning:**  
+![React](https://img.shields.io/badge/React-Learning-lightblue)  
+![Flutter](https://img.shields.io/badge/Flutter-Learning-blue)  
+![Django REST](https://img.shields.io/badge/Django%20REST-Learning-red)  
+![AWS](https://img.shields.io/badge/AWS-Learning-yellow)  
+
+💬 **Ask me about:**  
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-Apps-blue)  
+![Django REST](https://img.shields.io/badge/Django%20REST-APIs-red)  
+![Full-stack](https://img.shields.io/badge/Full--stack-Development-orange)  
+![Database](https://img.shields.io/badge/Database-Management-green)  
+
+⚡ **Fun fact:**  
+I love optimizing apps for speed, efficiency, and user experience
 
 
 ## 🌐 Socials:
