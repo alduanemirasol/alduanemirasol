@@ -32,7 +32,7 @@
 ---
 
 ## 🛠️ Skills & Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,django,react,html,css,js,mysql,sqlite,postman,github,git,notion,vscode,figma,tailwind,ts,redis,canva&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,django,react,html,css,js,mysql,sqlite,postman,github,git,dotnet,notion,vscode,figma,tailwind,ts,redis,canva&theme=dark)](https://skillicons.dev)
 
 ---
 
