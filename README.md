@@ -1,33 +1,4 @@
-# 💫 About Me
-
-🔭 **Currently working on:**  
-✅ FeeTracker (CTU Ginatilan Campus)  
-✅ DSWD POS & Inventory Management System using .NET MAUI  
-
-👯 **Looking to collaborate on:**  
-✅ Full-stack applications  
-✅ Django REST Framework APIs  
-✅ AWS deployments  
-
-🤝 **Looking for help with:**  
-✅ Optimizing .NET MAUI apps  
-✅ Django REST APIs  
-✅ Cloud deployment best practices  
-
-🌱 **Currently learning:**  
-✅ React  
-✅ Flutter  
-✅ Django REST Framework  
-✅ AWS deployment  
-
-💬 **Ask me about:**  
-✅ .NET MAUI  
-✅ Django REST Framework  
-✅ Full-stack development  
-✅ App deployment & database management  
-
-⚡ **Fun fact:**  
-I love optimizing apps for speed, efficiency, and user experience
+🔭 I’m currently working on<br>FeeTracker and DSWD (POS + Inventory Management System) using .NET MAUI App<br><br>👯 I’m looking to collaborate on<br>Full-stack applications, Django REST Framework APIs, and deployments on AWS<br><br>🤝 I’m looking for help with<br>Optimizing .NET MAUI apps, Django REST APIs, and cloud deployment best practices<br><br>🌱 I’m currently learning<br>React, Flutter, Django REST Framework, and AWS deployment<br><br>💬 Ask me about<br>.NET MAUI, Django REST Framework, full-stack development, app deployment, and database management<br><br>⚡ Fun fact<br>I love optimizing apps for speed, efficiency, and user experience
 
 
 ## 🌐 Socials:
