@@ -1,28 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>FeeTracker and DSWD (POS & Inventory Management System) using .NET MAUI App, focusing on improving user experience and operational efficiency.<br><br>👯 I’m looking to collaborate on<br>Full-stack applications, Django REST Framework APIs, cloud deployments on AWS, and projects involving scalable and maintainable software solutions.<br><br>🤝 I’m looking for help with<br>Optimizing .NET MAUI applications, Django REST APIs, cloud deployment best practices, and advanced architectural design for robust systems.<br><br>🌱 I’m currently learning<br>React, Flutter, Django REST Framework, AWS deployment, and best practices in application optimization and performance tuning.<br><br>💬 Ask me about<br>.NET MAUI, Django REST Framework, full-stack development, application deployment, database management, and software optimization strategies.<br><br>⚡ Fun fact<br>I enjoy optimizing applications for speed, efficiency, and user experience, and I have a passion for turning complex systems into simple, intuitive solutions.
+<h1 align="center">Hi 👋, I'm Al Duane Mirasol</h1>
+<h3 align="center">Full-Stack Developer Student | Team Lead | Problem Solver</h3>
 
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/awenmirasol) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awenmirasol) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awenmirasol234@gmail.com) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alduanemirasol&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alduanemirasol&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alduanemirasol&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alduanemirasol&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alduanemirasol&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/alduanemirasol">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alduanemirasol?style=social">
+  </a>
+  <a href="https://github.com/alduanemirasol?tab=repositories">
+    <img alt="GitHub Repos" src="https://img.shields.io/github/repo-size/alduanemirasol?color=blueviolet">
+  </a>
+  <a href="mailto:awenmirasol234@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-awenmirasol234@gmail.com-red">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alduanemirasol&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+- 🎓 Currently studying **BSc in Information Technology** at **Cebu Technological University - Ginatilan Campus**  
+- 💻 **8 months experience** as a Full-Stack Developer Student and Team Lead  
+- 🌱 Passionate about **clean code, app performance optimization**, and **real-life production-ready applications**  
+- ⚡ Fun fact: I enjoy building **efficient and maintainable systems** for real-world use  
+
+---
+
+## 🚀 Current Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **FeeTracker** | School app to track student fee payments, transactions, and generate receipts | C#, .NET MAUI, MySQL |
+| **DSWD POS & Smart Management System** | Application for government agency for POS & inventory management | C#, .NET MAUI, MySQL |
+
+---
+
+## 🛠️ Skills & Tech Stack
+<p align="left">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+## 🌱 Learning & Goals
+- Learning **AWS Deployments, React, React Native, and Flutter**  
+- Long-term goal: Become a **professional all-rounder Full-Stack Developer** with expertise in both frontend and backend development  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alduanemirasol&show_icons=true&theme=dark&count_private=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alduanemirasol&layout=compact&theme=dark">
+</p>
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <a href="mailto:awenmirasol234@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-awenmirasol234@gmail.com-red?style=for-the-badge"></a>
+  <a href="https://facebook.com/alduanemirasol"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-alduanemirasol-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://github.com/alduanemirasol"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-alduanemirasol-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
