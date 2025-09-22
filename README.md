@@ -17,7 +17,7 @@
 
 ## 💫 About Me
 - 🎓 3rd-Year BS Information Technology student at CTU Ginatilan Campus  
-- 💻 **8 months of experience** as a Full-Stack Developer Student, Team Lead, with hands-on projects in .NET MAUI, Django REST API, and MySQL
+- 💻 **8 months of experience** as a Full-Stack Developer Student & Team Lead, building with .NET MAUI, Django REST API, and MySQL
 - 🌱 Passionate about **clean code, app performance optimization**, and **real-life production-ready applications**  
 - ⚡ Fun fact: I enjoy building **efficient and maintainable systems** for real-world use  
 
