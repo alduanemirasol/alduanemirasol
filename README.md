@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Duane Mirasol</h1>
-<h3 align="center">Full-Stack Developer Student | Team Lead | Problem Solver</h3>
+<h3 align="center">BSIT Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/alduanemirasol">
@@ -16,8 +16,8 @@
 ---
 
 ## 💫 About Me
-- 🎓 Currently studying **BSc in Information Technology** at **Cebu Technological University - Ginatilan Campus**  
-- 💻 **8 months experience** as a Full-Stack Developer Student and Team Lead  
+- 🎓 3rd-Year BS Information Technology student at CTU Ginatilan Campus  
+- 💻 **8 months of experience** as a Full-Stack Developer Student, Team Lead, with hands-on projects in .NET MAUI, Django REST API, and MySQL
 - 🌱 Passionate about **clean code, app performance optimization**, and **real-life production-ready applications**  
 - ⚡ Fun fact: I enjoy building **efficient and maintainable systems** for real-world use  
 
