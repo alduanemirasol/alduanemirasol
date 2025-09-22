@@ -53,6 +53,6 @@
 ## 📫 Contact Me
 <p align="center">
   <a href="mailto:awenmirasol234@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-awenmirasol234@gmail.com-red?style=for-the-badge"></a>
-  <a href="https://facebook.com/alduanemirasol"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-alduanemirasol-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://facebook.com/awenmirasol"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-alduanemirasol-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://github.com/alduanemirasol"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-alduanemirasol-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
