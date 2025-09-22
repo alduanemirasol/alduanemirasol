@@ -38,7 +38,7 @@
 
 ## 🌱 Learning & Goals
 - Learning **AWS Deployments, React, React Native, and Flutter**  
-- Long-term goal: Become a **professional all-rounder Full-Stack Developer** with expertise in both frontend and backend development  
+- Long-term goal: Aspiring to become a professional Full-Stack Developer with strong expertise in frontend, backend, databases, APIs, and deployment.
 
 ---
 
