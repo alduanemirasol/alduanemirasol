@@ -1,15 +1,20 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Al Duane Mirasol</h1>
-<h3 align="center">BSIT Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">📚 BSIT Student | 💻 Aspiring Full-Stack Developer | 🚀 Problem Solver</h3>
 
 <p align="center">
+  <!-- Followers -->
   <a href="https://github.com/alduanemirasol">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/alduanemirasol?style=social">
   </a>
+
+  <!-- Public Repos -->
   <a href="https://github.com/alduanemirasol?tab=repositories">
-    <img alt="GitHub Repos" src="https://img.shields.io/github/repo-size/alduanemirasol?color=blueviolet">
+    <img alt="Public Repos" src="https://img.shields.io/badge/Public%20Repos-Click%20Here-blueviolet?style=flat-square&logo=github">
   </a>
-  <a href="mailto:awenmirasol234@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-awenmirasol234@gmail.com-red">
+
+  <!-- Profile Views -->
+  <a href="https://github.com/alduanemirasol">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=alduanemirasol&label=Profile%20Views&color=0e75b6&style=flat-square">
   </a>
 </p>
 
