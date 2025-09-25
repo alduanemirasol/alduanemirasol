@@ -20,7 +20,7 @@
 
   <div style="flex:1; min-width:280px; border:1px solid #333; border-radius:10px; padding:15px; background:#111; color:#fff;">
     <img src="images/dswd-pos.png" alt="DSWD POS Screenshot" style="width:100%; border-radius:8px; margin-bottom:10px;">
-    <h3>DSWD POS & Smart Management System</h3>
+    <h3>TiendaApp</h3>
     <p>POS & inventory management app for government agency</p>
     <p><strong>Tech:</strong> C#, .NET MAUI, MySQL</p>
   </div>
