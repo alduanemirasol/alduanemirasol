@@ -1,53 +1,46 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Al Duane Mirasol</h1>
-<h3 align="center">📚 BSIT Student | 💻 Aspiring Full-Stack Developer | 🚀 Problem Solver</h3>
+# Al Duane Cuevas Mirasol
+**`BSIT Student | Aspiring Full-Stack Developer`** 
 
-<p align="center">
-  <!-- Followers -->
-  <a href="https://github.com/alduanemirasol">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/alduanemirasol?style=social">
-  </a>
+## About Me  
+- 🎓 3rd-Year BSIT Student at CTU Ginatilan Campus  
+- 💻 8 months experience as Full-Stack Developer & Team Lead (.NET MAUI, Django REST API, MySQL)  
+- 🌱 Passionate about clean code, scalable apps, and performance optimization
+- ⚡ Enjoys building efficient, maintainable, and user-focused systems
 
-  <!-- Public Repos -->
-  <a href="https://github.com/alduanemirasol?tab=repositories">
-    <img alt="Public Repos" src="https://img.shields.io/badge/Public%20Repos-Click%20Here-blueviolet?style=flat-square&logo=github">
-  </a>
+<h2>Current Projects</h2>
 
-  <!-- Profile Views -->
-  <a href="https://github.com/alduanemirasol">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=alduanemirasol&label=Profile%20Views&color=0e75b6&style=flat-square">
-  </a>
-</p>
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
 
----
+  <div style="flex:1; min-width:280px; border:1px solid #333; border-radius:10px; padding:15px; background:#111; color:#fff;">
+    <img src="images/feetracker.png" alt="FeeTracker Screenshot" style="width:100%; border-radius:8px; margin-bottom:10px;">
+    <h3>FeeTracker</h3>
+    <p>School app for tracking student fee payments, transactions, and receipts</p>
+    <p><strong>Tech:</strong> C#, .NET MAUI, MySQL</p>
+  </div>
 
-## 💫 About Me
-- 🎓 3rd-Year BS Information Technology student at CTU Ginatilan Campus  
-- 💻 **8 months experience** as Full-Stack Developer Student & Team Lead using .NET MAUI, Django REST API, and MySQL
-- 🌱 Passionate about **clean code, app performance optimization**, and **real-life production-ready applications**  
-- ⚡ Fun fact: I enjoy building **efficient and maintainable systems** for real-world use  
+  <div style="flex:1; min-width:280px; border:1px solid #333; border-radius:10px; padding:15px; background:#111; color:#fff;">
+    <img src="images/dswd-pos.png" alt="DSWD POS Screenshot" style="width:100%; border-radius:8px; margin-bottom:10px;">
+    <h3>DSWD POS & Smart Management System</h3>
+    <p>POS & inventory management app for government agency</p>
+    <p><strong>Tech:</strong> C#, .NET MAUI, MySQL</p>
+  </div>
 
----
-
-## 🚀 Current Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **FeeTracker** | School app to track student fee payments, transactions, and generate receipts | C#, .NET MAUI, MySQL |
-| **DSWD POS & Smart Management System** | Application for government agency for POS & inventory management | C#, .NET MAUI, MySQL |
+</div>
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## Skills & Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,django,react,html,css,js,mysql,sqlite,postman,github,git,dotnet,notion,vscode,figma,canva&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 🌱 Learning & Goals
+## Learning & Goals
 - Learning **React, React Native, and System Design**  
 - Long-term goal: Aspiring to become a **Professional Full-Stack Developer** with strong expertise in frontend, backend, databases, APIs, and deployment.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alduanemirasol&show_icons=true&theme=dark&count_private=true">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alduanemirasol&layout=compact&theme=dark&count_private=true">
@@ -55,7 +48,7 @@
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 <p align="center">
   <a href="mailto:awenmirasol234@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-awenmirasol234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
