@@ -36,7 +36,7 @@
 
 ## GitHub Stats
 <p align="left">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alduanemirasol&show_icons=true&theme=codeSTACKr&count_private=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alduanemirasol&show_icons=true&theme=github_dark_dimmed&count_private=true">
 </p>
 
 ## Contact Me
