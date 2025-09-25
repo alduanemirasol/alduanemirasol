@@ -35,8 +35,8 @@
 - Long-term goal: Aspiring to become a **Professional Full-Stack Developer** with strong expertise in frontend, backend, databases, APIs, and deployment.
 
 ## GitHub Stats
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alduanemirasol&show_icons=true&theme=dark&count_private=true">
+<p align="left">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alduanemirasol&show_icons=true&theme=codeSTACKr&count_private=true">
 </p>
 
 ## Contact Me
