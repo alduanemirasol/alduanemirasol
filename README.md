@@ -37,7 +37,6 @@
 ## GitHub Stats
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alduanemirasol&show_icons=true&theme=dark&count_private=true">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alduanemirasol&layout=compact&theme=dark&count_private=true">
 </p>
 
 ## Contact Me
