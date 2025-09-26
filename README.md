@@ -28,7 +28,7 @@
 </div>
 
 ## Skills & Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,django,react,html,css,js,mysql,sqlite,postman,github,git,dotnet,notion,vscode,figma,canva&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,django,react,html,css,js,mysql,sqlite,postman,github,git,dotnet,notion,vscode,figma,canva&theme=dark&size=10)](https://skillicons.dev)
 
 ## Learning & Goals
 - Learning **React, React Native, and System Design**  
