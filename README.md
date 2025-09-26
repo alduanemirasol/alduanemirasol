@@ -31,7 +31,7 @@
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,python,django,reactnative,dotnet,html,css,javascript,typescript,mysql,sqlite,git,github,postman,canva,figma,vscode,visualstudio,api&size=30"
+      src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,python,django,reactnative,dotnet,html,css,javascript,typescript,mysql,sqlite,git,github,postman,canva,figma,vscode,visualstudio,api&titles=true"
     />
   </a>
 </p>
