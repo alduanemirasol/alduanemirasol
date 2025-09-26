@@ -28,7 +28,13 @@
 </div>
 
 ## Skills & Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,python,django,react,html,css,js,mysql,sqlite,postman,github,git,dotnet,notion,vscode,figma,canva&theme=dark&size=10)](https://skillicons.dev)
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,api,canva,c,docker,djangorestframework,django,github,css,cs,cpp,figma,flutter,git,javascript,html,mysql,reactnative,postman,sqlite,vscode,visualstudio,typescript,tailwindcss"
+    />
+  </a>
+</p>
 
 ## Learning & Goals
 - Learning **React, React Native, and System Design**  
