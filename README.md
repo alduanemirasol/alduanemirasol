@@ -20,6 +20,7 @@
     <img src="images/dashboard.jpg" width="200" style="border-radius:8px;">
     <img src="images/payment_history.jpg" width="200" style="border-radius:8px;">
     <img src="images/receipt.jpg" width="200" style="border-radius:8px;">
+    <img src="images/profile.jpg" width="200" style="border-radius:8px; display:none;">
   </div>
 
   <h3 style="margin:8px 0 4px;">FeeTracker</h3>
