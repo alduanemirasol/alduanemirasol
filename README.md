@@ -13,19 +13,25 @@
 
 <div style="display:flex; gap:20px; flex-wrap:wrap;">
 
-<div style="flex:1; min-width:240px; border:1px solid #333; border-radius:10px; padding:12px; background:#111; color:#fff;">
+<div style="display:flex; gap:20px; flex-wrap:nowrap; overflow-x:auto;">
 
-  <div style="display:flex; gap:8px; overflow-x:auto; padding-bottom:8px;">
-    <img src="images/login.jpg" width="200" style="border-radius:8px;">
-    <img src="images/dashboard.jpg" width="200" style="border-radius:8px;">
-    <img src="images/payment_history.jpg" width="200" style="border-radius:8px;">
-    <img src="images/receipt.jpg" width="200" style="border-radius:8px;">
-    <img src="images/profile.jpg" width="200" style="border-radius:8px;">
+  <div style="flex:0 0 240px; border:1px solid #333; border-radius:10px; padding:12px; background:#111; color:#fff;">
+    <div style="display:flex; gap:8px; overflow-x:auto; padding-bottom:8px;">
+      <img src="images/login.jpg" width="200" style="border-radius:8px;">
+      <img src="images/dashboard.jpg" width="200" style="border-radius:8px;">
+      <img src="images/payment_history.jpg" width="200" style="border-radius:8px;">
+      <img src="images/receipt.jpg" width="200" style="border-radius:8px;">
+      <img src="images/profile.jpg" width="200" style="border-radius:8px;">
+    </div>
+    <h3 style="margin:8px 0 4px;">FeeTracker</h3>
+    <p style="margin:0 0 6px;">School app for tracking student fee payments, transactions, and receipts</p>
+    <p style="margin:0;"><strong>Tech:</strong> C#, .NET MAUI, MySQL</p>
   </div>
 
-  <h3 style="margin:8px 0 4px;">FeeTracker</h3>
-  <p style="margin:0 0 6px;">School app for tracking student fee payments, transactions, and receipts</p>
-  <p style="margin:0;"><strong>Tech:</strong> C#, .NET MAUI, MySQL</p>
+  <!-- Duplicate this card for the next projects -->
+  <div style="flex:0 0 240px; border:1px solid #333; border-radius:10px; padding:12px; background:#111; color:#fff;">
+    Another card here...
+  </div>
 
 </div>
 
