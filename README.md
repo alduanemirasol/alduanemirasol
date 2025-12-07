@@ -31,8 +31,8 @@
 
   <div style="flex:1; min-width:280px; border:1px solid #333; border-radius:10px; padding:15px; background:#111; color:#fff;">
     <img src="images/test.jpg" alt="DSWD POS Screenshot" style="width:100%; border-radius:8px; margin-bottom:10px;">
-    <h3>TiendaApp</h3>
-    <p>POS & inventory management app for government agency</p>
+    <h3>E.M.P.O.W.E.R</h3>
+    <p>POS for government agency</p>
     <p><strong>Tech:</strong> C#, .NET MAUI, MySQL</p>
   </div>
 
@@ -52,12 +52,6 @@
 
 - Learning **Flutter, System Architectures, and System Design**
 - Long-term goal: Aspiring to become a **Professional Full-Stack Developer** with strong expertise in frontend, backend, databases, APIs, and deployment.
-
-## GitHub Stats
-
-<p align="left">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alduanemirasol&show_icons=true&theme=github_dark_dimmed&count_private=true">
-</p>
 
 ## Contact Me
 
