@@ -15,20 +15,13 @@
 
 <div style="flex:1; min-width:280px; border:1px solid #333; border-radius:10px; padding:15px; background:#111; color:#fff;">
 
-<img src="images/login.jpg" alt="FeeTracker Screenshot"
-       style="width:100%; max-width:300px; border-radius:8px; margin:10px auto; display:block;">
-
-<img src="images/dashboard.jpg" alt="FeeTracker Screenshot"
-       style="width:100%; max-width:300px; border-radius:8px; margin:10px auto; display:block;">
-
-<img src="images/payment_history.jpg" alt="FeeTracker Screenshot"
-       style="width:100%; max-width:300px; border-radius:8px; margin:10px auto; display:block;">
-
-<img src="images/profile.jpg" alt="FeeTracker Screenshot"
-       style="width:100%; max-width:300px; border-radius:8px; margin:10px auto; display:block;">
-
-<img src="images/receipt.jpg" alt="FeeTracker Screenshot"
-       style="width:100%; max-width:300px; border-radius:8px; margin:10px auto; display:block;">
+  <div style="display:flex; gap:10px; overflow-x:auto; padding-bottom:10px;">
+    <img src="images/login.jpg" width="250" style="border-radius:8px;">
+    <img src="images/dashboard.jpg" width="250" style="border-radius:8px;">
+    <img src="images/payment_history.jpg" width="250" style="border-radius:8px;">
+    <img src="images/profile.jpg" width="250" style="border-radius:8px;">
+    <img src="images/receipt.jpg" width="250" style="border-radius:8px;">
+  </div>
 
   <h3>FeeTracker</h3>
   <p>School app for tracking student fee payments, transactions, and receipts</p>
