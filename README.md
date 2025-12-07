@@ -40,102 +40,13 @@
 
 ## Skills & Tech Stack
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-
-  <!-- Row 1 -->
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">C</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">C#</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">Python</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=django" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">Django</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">Flutter</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">.NET</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">HTML</p>
-  </div>
-
-  <!-- Row 2 -->
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">CSS</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">JS</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">MySQL</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">SQLite</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">Git</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">GitHub</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">Postman</p>
-  </div>
-
-  <!-- Row 3 -->
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">Canva</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">Figma</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">VS Code</p>
-  </div>
-
-  <div style="text-align:center; width:60px;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" width="40">
-    <p style="margin:2px 0 0; font-size:10px;">Visual Studio</p>
-  </div>
-
-</div>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=c,cs,python,django,flutter,dotnet,html,css,javascript,mysql,sqlite,git,github,postman,canva,figma,vscode,visualstudio&titles=true&perline=12"
+    />
+  </a>
+</p>
 
 ## Learning & Goals
 
